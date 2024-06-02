@@ -13,7 +13,7 @@ description = "This library is meant to DatasetsFactory app users, and is used f
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "requests>2.32.3"
+    "requests=2.32.3"
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -22,4 +22,4 @@ classifiers = [
 ]
 
 [project.urls]
-repository = "https://github.com/DenisAriton/DatasetsFactory_Library"
+GitHub = "https://github.com/DenisAriton/DatasetsFactory_Library"
