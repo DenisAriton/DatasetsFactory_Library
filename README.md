@@ -16,7 +16,7 @@ pip install DatasetsFactory
 > [!IMPORTANT] 
 > Everytime you want to load a dataset you must follow every step bellow !
 ```python
-from DatasetsFactory.DatasetsFactory import Datasets
+from DatasetsFactory import Datasets
 # Get the token from your profile!
 token = "928e4f5f-50e7-4f06-aaac-459d4c5db8ac"
 # Initialize the library with the token of the user

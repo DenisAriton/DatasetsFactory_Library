@@ -1,6 +1,6 @@
 import os
 from requests import get
-from usefull import CreateDirectory
+from DatasetsFactory.usefull import CreateDirectory
 
 
 class Datasets:

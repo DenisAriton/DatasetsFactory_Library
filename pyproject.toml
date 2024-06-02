@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "DatasetsFactory"
-version = "0.1"
+version = "0.3"
 license = {file = "LICENSE"}
 authors = [
   { name="Denis Ariton", email="denis.ariton@student.upt.ro" },
@@ -13,7 +13,7 @@ description = "This library is meant to DatasetsFactory app users, and is used f
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "requests=2.32.3"
+    "requests"
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
