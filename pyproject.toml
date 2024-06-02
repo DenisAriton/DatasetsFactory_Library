@@ -5,7 +5,6 @@ build-backend = "hatchling.build"
 [project]
 name = "DatasetsFactory"
 version = "0.1"
-dynamic = ["version"]
 license = {file = "LICENSE"}
 authors = [
   { name="Denis Ariton", email="denis.ariton@student.upt.ro" },
